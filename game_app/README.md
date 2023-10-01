@@ -1,16 +1,16 @@
-# game_app
+# Gameify App
 
-A new Flutter project.
+Gameify App is a mobile application built with Flutter that allows users to explore and discover various games. Users can view game details, descriptions, and cover images, making it easy to find and learn about different games.
 
-## Getting Started
+## Screenshots
+![gamefy-1](https://github.com/HafeezullahRind/gamify_app/assets/121288207/40724623-45f8-4d91-8772-d1916d3bfb29)
+![gamefy-2](https://github.com/HafeezullahRind/gamify_app/assets/121288207/f0386b5a-8402-4e3b-85c1-19493c0aaaaa)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Display a list of games with titles, descriptions, and cover images.
+- Users can swipe through featured games on the home screen.
+- Navigation to view more details about each game.
+- Responsive design for various device sizes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
